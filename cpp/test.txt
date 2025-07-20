@@ -1,3 +1,4 @@
 main edit
 feature1 edit
 Another line from server
+feature1 edit
